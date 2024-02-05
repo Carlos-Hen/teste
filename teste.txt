@@ -1,0 +1,1 @@
+Não deveria estar ou aparecer no Git!!

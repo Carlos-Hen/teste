@@ -11,7 +11,7 @@ function exibirTextoTela (tag, texto) {
 
 function exibirMensagemInicial () {
 	exibirTextoTela ('h1', 'Jogo do número secreto');
-	exibirTextoTela ('p', 'Escolha um número entre 1 e 100');
+	exibirTextoTela ('p', 'Descubra um número que está entre 1 e 100');
 }
 
 exibirMensagemInicial();
